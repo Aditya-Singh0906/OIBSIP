@@ -11,7 +11,6 @@ Features
 -Stylish Interface: Modern and clean design using CSS for an intuitive user experience.
 
 Technologies Used
-
 -HTML: The structure of the calculator is built using HTML5.
 
 Contributions are welcome! If you have suggestions or improvements, please feel free to submit a pull request or open an issue.
